@@ -34,7 +34,7 @@ Run the `Air Hockey.exe` or `Air Hockey.out` file that was generated in the root
 Copyright (C) 2024 Otincelescu Darius Marian
 
 This program is distributed under the GNU General Purpose License Version 3, or (at your option) any later version.
-For more information read the LICENSE and COPYING files.
+For more information read the LICENSE file.
 
 ## Acknowledgements
 
