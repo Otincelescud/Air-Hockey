@@ -22,7 +22,7 @@ After downloading the dependencies move the `SDL2.dll` and `SDL2_image.dll` file
 
 If you are on windows:
 ```
-g++ src/main.cpp src/game.cpp -I[Path to SDL2 include directory] -I[Path to SDL2_image include directory] -L[Path to SDL2 library directry for your system architecture] -L[Path to SDL2_image library directry for your system architecture] -lSDL2 -lSDL2_image -mwindows -o "..\Air Hockey.exe"
+g++ src/main.cpp src/game.cpp -I[Path to SDL2 include directory] -I[Path to SDL2_image include directory] -L[Path to SDL2 library directry for your system architecture] -L[Path to SDL2_image library directry for your system architecture] -lSDL2 -lSDL2_image -mwindows -o ".\Air Hockey.exe"
 ```
 
 ### Usage
