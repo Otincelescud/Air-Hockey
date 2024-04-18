@@ -1,7 +1,8 @@
-#ifndef Game_hpp
-#define Game_hpp
+#ifndef Game_h
+#define Game_h
 
 #include "SDL.h"
+#include "SDL_image.h"
 #include <iostream>
 
 class Game {
@@ -22,6 +23,7 @@ private:
     bool is_running;
     SDL_Window* window;
     SDL_Renderer* renderer;
+    int cnt;
 };
 
-#endif /* Game_hpp */
+#endif /* Game_h */
